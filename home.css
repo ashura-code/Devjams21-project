@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(206, 219, 247);
+    display:grid;
+    grid-gap: 10px;
+    padding: 20px;
+}
+.info{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    grid-gap: 10px;
+}
+.c1{
+    background-color: white;
+    border-radius: 12px;
+    padding: 20px;
+}
+.c2{
+    background-color:white;
+    border-radius: 12px;
+    padding: 20px;
+}
+.r1,.r2{
+    margin: 5px;
+    padding: 5px;
+    background-color: azure;
+}
